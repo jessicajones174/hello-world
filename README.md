@@ -2,7 +2,7 @@
 As an aspiring data scientist, this is the first step in creating a public portfolio that displays my technical skills and qualifications. 
 
 ###### How I got here?
-In 2013, I graduated with a degree in Math and Political Science from Emory University, and one of the most frustrating things looking back on my early career is how little I knew about how to apply my quantitative aptitude into value in the job market. What data science means to me is transitioning from theory and resuscitation, classroom skills, to applied knowledge and critical thinking skills as a methodologically trained professional.
+In 2013, I graduated with a degree in Math and Political Science from Emory University, and one of the most frustrating things looking back so far on the first few years of my professional career is how little I knew about how to apply my quantitative aptitude into value in the job market. What data science means to me is transitioning from theory and resuscitation, classroom skills, to applied knowledge and critical thinking skills as a methodologically trained professional.
 
 ###### What have I been up to?
 For the past four years, I have served as a public health analyst at RTI International, a nonprofit research institute, supporting mixed-method healthcare evaluations supporting quantitative and qualitative research tasks, as well as project management responsibilities. 
