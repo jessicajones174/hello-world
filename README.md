@@ -10,5 +10,5 @@ For the past four years, I have served as a public health analyst at RTI Interna
 - Qualitative tasks include managing data collection processes for surveys, participating in site visits, and coordinating, conducting, and coding phone interviews. 
 - Project maangement tasks include collaborating with finanacial analyst and leadership team on labor forecasting for large multimillion dollar project, and serving as point-of-contact for client, subcontractors, consultants, and larger evalaution team.
 
-Other experience includes serving as an AmeriCorps apprentice at Leadership Triangle, a nonprofit whose mission is to build leadership capacity and promote regionalism across Chatham, Durham, Orange, and Wake counties in North Carolina, also known as the Triangle area. My area of focus as an apprentice was capacity-building in nonprofit management through program coordination, marketing, and event manaagement activities. 
+Other experience includes serving as an AmeriCorps apprentice at Leadership Triangle, a nonprofit whose mission is to build leadership capacity and promote regionalism across Chatham, Durham, Orange, and Wake counties in North Carolina, also known as the Triangle area. My area of focus as an apprentice was capacity-building in nonprofit management through program coordination, marketing, and event management activities. 
 
